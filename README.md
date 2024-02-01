@@ -1,6 +1,6 @@
 # AirBnB clone
 
-![Image](config/HBnB_logo_L.png)
+![Image](web_static/images/LOGO_BIG.png)
 
 > This is the first part of the **AirBnB Clone** Project. The goal of the entire project is to deploy on your server a simple copy of the AirBnB website. All the features will not be implemented, only some of them to cover all fundamental concepts of the higher level programming track. The entire application won't be built all at once, but step by step with different projects.
 
@@ -10,7 +10,7 @@ The AirBnB clone project starts with this project; **The Console**. It is a comm
 
 ## The Console
 
-![Image](config/0x01-HBnB-Web_static.png)
+![Image](web_static/images/WEB_STATIC.png)
 
 This phase involves;
 - Creating your own **Data Model**
