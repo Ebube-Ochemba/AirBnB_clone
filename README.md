@@ -1,6 +1,8 @@
-# AirBnB clone
+<p align="center">
+<img src="https://github.com/Ebube-Ochemba/AirBnB_clone/blob/master/web_static/images/LOGO_BIG.png" alt="HBnB logo">
+</p>
 
-![Image](web_static/images/LOGO_BIG.png)
+<h1 align="center">The AirBnB clone</h1>
 
 > This is the first part of the **AirBnB Clone** Project. The goal of the entire project is to deploy on your server a simple copy of the AirBnB website. All the features will not be implemented, only some of them to cover all fundamental concepts of the higher level programming track. The entire application won't be built all at once, but step by step with different projects.
 
@@ -24,7 +26,7 @@ This abstraction will also allow you to change the type of storage easily withou
 
 The __*console*__ will be a tool to validate this storage engine.
 
-> **Web static** will involve creating the **HTML** of your application and template of each object. (*HTML/CSS*)
+> [**Web static**](https://github.com/Ebube-Ochemba/AirBnB_clone/tree/master/web_static) involved creating the **HTML** of the application and template of each object. (*HTML/CSS*)
 
 ### How does it work ?
 
